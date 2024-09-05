@@ -1,0 +1,14 @@
+C:\Users\ali.abbasli\source\repos\M10\M10\bin\Debug\net8.0\M10.exe
+C:\Users\ali.abbasli\source\repos\M10\M10\bin\Debug\net8.0\M10.deps.json
+C:\Users\ali.abbasli\source\repos\M10\M10\bin\Debug\net8.0\M10.runtimeconfig.json
+C:\Users\ali.abbasli\source\repos\M10\M10\bin\Debug\net8.0\M10.dll
+C:\Users\ali.abbasli\source\repos\M10\M10\bin\Debug\net8.0\M10.pdb
+C:\Users\ali.abbasli\source\repos\M10\M10\obj\Debug\net8.0\M10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.abbasli\source\repos\M10\M10\obj\Debug\net8.0\M10.AssemblyInfoInputs.cache
+C:\Users\ali.abbasli\source\repos\M10\M10\obj\Debug\net8.0\M10.AssemblyInfo.cs
+C:\Users\ali.abbasli\source\repos\M10\M10\obj\Debug\net8.0\M10.csproj.CoreCompileInputs.cache
+C:\Users\ali.abbasli\source\repos\M10\M10\obj\Debug\net8.0\M10.dll
+C:\Users\ali.abbasli\source\repos\M10\M10\obj\Debug\net8.0\refint\M10.dll
+C:\Users\ali.abbasli\source\repos\M10\M10\obj\Debug\net8.0\M10.pdb
+C:\Users\ali.abbasli\source\repos\M10\M10\obj\Debug\net8.0\M10.genruntimeconfig.cache
+C:\Users\ali.abbasli\source\repos\M10\M10\obj\Debug\net8.0\ref\M10.dll
